@@ -1,5 +1,5 @@
 ---
-slug: /Sleep-Report/Sleep_Positions
+slug: /Sleep-Reports/Sleep_Positions
 sidebar_label: Sleep Positions
 sidebar_position: 7
 hide_title: true
