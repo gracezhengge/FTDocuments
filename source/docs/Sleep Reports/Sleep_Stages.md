@@ -1,5 +1,5 @@
 ---
-slug: /Sleep-Report/Sleep-Stages
+slug: /Sleep-Reports/Sleep-Stages
 sidebar_label: Sleep Stages
 sidebar_position: 3
 hide_title: true
