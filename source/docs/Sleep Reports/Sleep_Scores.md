@@ -1,5 +1,5 @@
 ---
-slug: /Sleep-Report/Sleep-Scores
+slug: /Sleep-Reports/Sleep-Scores
 sidebar_label: Sleep Scores
 sidebar_position: 1
 hide_title: true
