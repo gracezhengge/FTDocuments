@@ -1,5 +1,5 @@
 ---
-slug: /Sleep-Report/Sleep-Brainwave-Changes
+slug: /Sleep-Reports/Sleep-Brainwave-Changes
 sidebar_label: Sleep Brainwave Changes
 sidebar_position: 4
 hide_title: true
