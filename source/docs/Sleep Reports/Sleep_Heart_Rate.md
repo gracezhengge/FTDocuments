@@ -1,5 +1,5 @@
 ---
-slug: /Sleep-Report/Sleep-Heart-Rate
+slug: /Sleep-Reports/Sleep-Heart-Rate
 sidebar_label: Sleep Heart Rate
 sidebar_position: 5
 hide_title: true
