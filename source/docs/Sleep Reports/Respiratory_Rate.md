@@ -1,5 +1,5 @@
 ---
-slug: /Sleep-Report/Sleep-Respiratory-Rate
+slug: /Sleep-Reports/Sleep-Respiratory-Rate
 sidebar_label: Sleep Respiratory Rate
 sidebar_position: 11
 hide_title: true
