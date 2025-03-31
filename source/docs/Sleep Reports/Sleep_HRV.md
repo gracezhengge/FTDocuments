@@ -1,5 +1,5 @@
 ---
-slug: /Sleep-Report/Sleep-HRV
+slug: /Sleep-Reports/Sleep-HRV
 sidebar_label: Sleep HRV
 sidebar_position: 6
 hide_title: true
