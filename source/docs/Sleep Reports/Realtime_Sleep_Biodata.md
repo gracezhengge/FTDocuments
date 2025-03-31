@@ -1,5 +1,5 @@
 ---
-slug: /Sleep-Report/Realtime-Sleep-Biodata
+slug: /Sleep-Reports/Realtime-Sleep-Biodata
 sidebar_label: Realtime Sleep Biodata
 sidebar_position: 12
 hide_title: true
